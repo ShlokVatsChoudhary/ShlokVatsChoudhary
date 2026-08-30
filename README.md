@@ -98,7 +98,7 @@ My current focus is becoming better at the complete ML workflow:
 ## Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/shlok-choudhary-b2257a371">
+  <a href="https://http://www.linkedin.com/in/shlokvatschoudhary">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:shlokchoudhary22072007@gmail.com">
