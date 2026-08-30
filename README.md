@@ -52,7 +52,7 @@ A from-scratch implementation and experimentation with the classic **LeNet-5 con
 
 ---
 
-🌸 Iris Logistic Regression — From Scratch
+### 🌸 Iris Logistic Regression — From Scratch
 
 Implemented logistic regression from scratch using NumPy, including the mathematical foundations of sigmoid activation, binary/multiclass classification, cost function, gradient descent, and model evaluation.
 
@@ -100,10 +100,10 @@ I'm currently focused on becoming better at the part of ML that happens before a
 
 📊 GitHub Stats
 
- <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 20px;">
-  <img src="https://vercel.app" height="170" alt="Shlok's GitHub Stats"/>
-  <img src="https://vercel.app" height="170" alt="Shlok's Top Languages"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShlokVatsChoudhary&show_icons=true&theme=transparent&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShlokVatsChoudhary&layout=compact&theme=transparent&hide_border=true" height="170"/>
+</p>
 
 
 🤝 Let's Connect
