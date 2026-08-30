@@ -19,19 +19,27 @@ I like understanding the **why behind the model**, not just using a library and 
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-`Python` · `C++` · `C` · `SQL`
+### AI / ML
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 
-**Machine Learning**
-
-`NumPy` · `Pandas` · `Scikit-learn` · `TensorFlow` · `PyTorch`
-
-**Backend & Tools**
-
-`FastAPI` · `PostgreSQL` · `Docker` · `Git` · `GitHub`
+### Development & Tools
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
@@ -52,22 +60,6 @@ Implemented logistic regression using **NumPy**, building the core mathematics r
 Implemented and experimented with the classic **LeNet-5 convolutional neural network** for handwritten digit classification.
 
 > Focus: CNNs · Computer Vision · TensorFlow · MNIST
-
----
-
-### ❤️ CardioNet
-
-A neural-network based machine learning project for **heart disease prediction**, covering preprocessing, model training and evaluation.
-
-> Focus: Classification · Neural Networks · Data Preprocessing
-
----
-
-### 🛰️ SentinelSense
-
-A real-time **human activity and abnormal-motion detection** system using smartphone accelerometer and gyroscope time-series data.
-
-> Focus: Time Series · Feature Engineering · Deep Learning · FastAPI · PostgreSQL · Docker
 
 ---
 
@@ -113,7 +105,7 @@ Currently
 🚀 Working toward production-oriented AI/ML development
 
 🤝 Let's Connect
-💼 LinkedIn: https://www.linkedin.com/in/shlok-choudhary-b2257a371/
+💼 LinkedIn: https://www.linkedin.com/in/shlok-choudhary-b2257a371
 📧 Email: shlokchoudhary22072007@gmail.com
 💻 GitHub: @ShlokVatsChoudhary
 
