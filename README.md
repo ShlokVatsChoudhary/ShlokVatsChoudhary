@@ -2,9 +2,7 @@
 
 ### CSE @ NIT Raipur · AI/ML Enthusiast · Builder
 
-I’m a Computer Science Engineering student exploring **Machine Learning, Deep Learning, and AI systems** through projects, experimentation, and hackathons.
-
-I like understanding the **why behind the model**, not just using a library and calling `.fit()`.
+I'm a Computer Science Engineering student at NIT Raipur, focused on building and understanding Machine Learning, Deep Learning, and AI systems through projects, experimentation, and hackathons.
 
 ---
 
@@ -73,36 +71,29 @@ An AI-powered educational assistant using **Retrieval-Augmented Generation (RAG)
 
 ## What I'm Learning
 
-
-        Machine Learning
-               │
-               ▼
-    Data Analysis & Features
-               │
-               ▼
-        Deep Learning
-          ┌────┴────┐
-          ▼         ▼
-    Computer Vision  NLP
-          │         │
-          └────┬────┘
-               ▼
-          RAG / LLMs
-               │
-               ▼
-       Deployment & MLOps
+**Machine Learning**  
+↓  
+**Data Analysis & Feature Engineering**  
+↓  
+**Deep Learning**  
+↓  
+**Computer Vision · NLP**  
+↓  
+**RAG & LLMs**  
+↓  
+**Deployment & MLOps**
 
 My current focus is becoming better at the complete ML workflow:
 
-Data → Analysis → Features → Model → Evaluation → Deployment
+**Data → Analysis → Features → Model → Evaluation → Deployment**
 
-Currently
+## Currently
 
-🔭 Building ML projects
-📚 Strengthening ML & Deep Learning fundamentals
-💻 Practicing DSA
-🧪 Experimenting with different models and datasets
-🚀 Working toward production-oriented AI/ML development
+- 🔭 Building ML projects
+- 📚 Strengthening ML & Deep Learning fundamentals
+- 💻 Practicing DSA
+- 🧪 Experimenting with different models and datasets
+- 🚀 Working toward production-oriented AI/ML development
 
 ## Let's Connect
 
