@@ -73,7 +73,7 @@ A deep-learning framework developed for Smart India Hackathon 2026, combining oc
 
 Tech: Python · TensorFlow · CNNs · FastAPI · React · Vite · xarray
 
-Focus: Deep Learning · Scientific ML · Geospatial Data · API Integration · Data Visualisation
+> Focus: Deep Learning · Scientific ML · Geospatial Data · API Integration · Data Visualisation
 
 ---
 
